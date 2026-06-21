@@ -2,7 +2,7 @@ import axios from "axios";
 
 const api = axios.create({
 
-  baseURL: " https://finance-tracker-backend-zbuf.onrender.com",
+  baseURL: "https://finance-tracker-backend-zbuf.onrender.com/api",
 
 });
 
